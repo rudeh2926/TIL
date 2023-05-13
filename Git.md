@@ -1,7 +1,0 @@
-# Git
-
----
-
-[Git Bash](Git%202af325cabca8418096fa8d7eb877c198/Git%20Bash%20af2fcc641c1b42f497f427e07716b2f2.md)
-
-[Git](Git%202af325cabca8418096fa8d7eb877c198/Git%20475f72ad2f00417db85ec5d780ba781f.md)
